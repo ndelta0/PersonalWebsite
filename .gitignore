@@ -86,3 +86,12 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Svelte Kit files
+.svelte-kit/
+
+# Build folder
+build/
+
+# PNPM lock
+pnpm-lock.yaml
