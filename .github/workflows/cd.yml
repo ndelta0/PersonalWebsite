@@ -20,6 +20,5 @@ jobs:
           cd /www/personal/PersonalWebsite
           git checkout main
           git pull
-          git clean -fdx
-          pnpm install
-          pnpm build
+          npm install
+          npm run build
