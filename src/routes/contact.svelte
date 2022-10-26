@@ -25,7 +25,7 @@
 
 			<p>
 				<a href="mailto:peter@k4rasudev.me">
-					<SolidIcon name="envelope" /><span class="line-through">peter@k4rasudev.me</span> currently not working, use other means of contact 
+					<SolidIcon name="envelope" />peter@k4rasudev.me
 				</a>
 			</p>
 
