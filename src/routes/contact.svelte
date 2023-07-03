@@ -9,7 +9,7 @@
 <div class="flex h-screen items-center">
 	<div class="card md:w-[50%] w-screen md:ml-16 bg-primary shadow-xl">
 		<div class="card-body text-white">
-			<p><BrandIcon brand="discord" />KuraiK4rasu#3330</p>
+			<p><BrandIcon brand="discord" />@kuraik4rasu</p>
 
 			<p>
 				<a href="https://github.com/ndelta0/" target="_blank">
