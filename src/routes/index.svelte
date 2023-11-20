@@ -16,7 +16,7 @@
 			</p>
 			<p>
 				I'm currently studying <span class="text-green-500"
-					><i class="fa-solid fa-screwdriver-wrench" /> mechatronics engineering</span
+					><i class="fa-solid fa-screwdriver-wrench" /> automation, robotics and industrial IT on Warsaw University of Technology</span
 				>
 				and I really like
 				<span class="text-red-500"
