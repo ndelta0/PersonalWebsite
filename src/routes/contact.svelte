@@ -24,8 +24,13 @@
 			</p>
 
 			<p>
+				<SolidIcon name="envelope" />
 				<a href="mailto:peter@k4rasudev.me">
-					<SolidIcon name="envelope" />peter@k4rasudev.me
+					peter@k4rasudev.me
+				</a>
+				<span style="font-size: 20px;">|</span>
+				<a href="mailto:ppiotr.madura@gmail.com">
+					ppiotr.madura@gmail.com
 				</a>
 			</p>
 
