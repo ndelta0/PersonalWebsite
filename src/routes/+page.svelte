@@ -11,27 +11,27 @@
 			</h2>
 
 			<p>
-				I'm <span class="text-orange-300">Peter</span> and I'm from
+				I'm <span class="text-orange-300">Peter</span> from
 				<span class="text-blue-200"><i class="fa-solid fa-earth-europe" /> Warsaw, Poland</span>.
 			</p>
 			<p>
 				I'm currently studying <span class="text-green-500"
-					><i class="fa-solid fa-screwdriver-wrench" /> automation, robotics and industrial IT on Warsaw University of Technology</span
-				>
-				and I really like
+			><i class="fa-solid fa-screwdriver-wrench" /> automation, robotics and industrial IT on Warsaw University of Technology</span
+			>
+				and I consider myself an enthusiast of
 				<span class="text-red-500"
-					>all <i class="fa-solid fa-code" /> software and <i class="fa-solid fa-microchip" /> hardware
+				>all <i class="fa-solid fa-code" /> software and <i class="fa-solid fa-microchip" /> hardware
 					projects</span
-				>.
+				>, especially embedded.
 				<br />
-				I also like some networking.
+				I also like to play around with <!-- devops and server management, --> <span class="text-blue-500"
+			><i class="fa-solid fa-server" /> server management</span>.
 				<br />
-				I'd love to make things, except my budget doesn't really allow for that, so I stick to software
-				(at least currently).
+				I'd like to make things, except my budget doesn't really allow for that right now, so I stick to software .
 			</p>
 
 			<div class="card-actions justify-end">
-				<a href="projects" class="btn btn-accent">Projects and contributions</a>
+				<a class="btn btn-accent" href="projects">See what I did</a>
 				<a href="contact" class="btn btn-error">Contact me</a>
 			</div>
 		</div>
