@@ -1,5 +1,7 @@
 <script lang="ts">
 	import '../app.css';
+
+	export const prerender = true;
 </script>
 
 <div class="container mx-auto px-4">
